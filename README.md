@@ -7,7 +7,7 @@ Both "Book View" and "Kart View" have their own controllers and there are factor
 In this app for now the data is hard-coded in the factory for easy demonstration purposes.
 
 The main HTML page is the WelcomePage.html and the 2 other HTML pages are in the partials folder.
-There is an app.js JavaScript file and also an app.css CSS file. The images stored are in the images folder.
+There is an app.js JavaScript file and also an app.css CSS file. The imgs stored are in the images folder.
 
 I also used filters to represent the text in a particular format like the currency is displayed in "$" and the book
 binding appears in Uppercase.
